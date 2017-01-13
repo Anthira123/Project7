@@ -6,6 +6,7 @@ public class MyWorker
 	{
 		result = a + b;
 	}
+
 	public int getResult()
 	{
 		return result
